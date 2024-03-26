@@ -18,8 +18,10 @@ This repository hosts the build files for the Ball Game app. The app features mo
 5. Open the app and enjoy playing!
 
 ## Screenshots
+![game1](https://github.com/Kushalms200/BallGame/assets/163292312/f0bd3b48-ad26-4d86-a661-e2de8ef4e3ed)
 
-[Include screenshots of your app here]
+![game2](https://github.com/Kushalms200/BallGame/assets/163292312/97012af0-5e55-4977-aa5e-8629e428234b)
+
 
 ## Technologies Used
 
@@ -28,10 +30,12 @@ This repository hosts the build files for the Ball Game app. The app features mo
 
 ## Contribution Guidelines
 
-This repository is for hosting the app only. Contributions to the app's development should be made to the main project repository.
+This repository is for hosting the app only.
 
 ## Contact
 
-[Include your contact information here]
+kushal2092003@gmail.com
+
+
 
 
