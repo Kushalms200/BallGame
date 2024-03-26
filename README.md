@@ -11,7 +11,7 @@ This repository hosts the build files for the Ball Game app. The app features mo
 
 ## Download Instructions
 
-1. Go to the [Releases](https://github.com/your-username/your-repository/releases) section of this repository.
+1. Go to the [Releases](https://github.com/Kushalms200/BallGame/) section of this repository.
 2. Download the latest release APK file to your Android device.
 3. Enable installation from unknown sources in your device settings.
 4. Install the APK file on your device.
